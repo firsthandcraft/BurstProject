@@ -24,3 +24,4 @@
 - 홈페이지에 관한 의견은 opaldust19@gmail.com으로 보내주세요. 감사합니다.
 
 ## 🕵️‍♀️: 화면구성
+<img width="1437" alt="스크린샷 2023-03-03 오후 5 25 16" src="https://user-images.githubusercontent.com/97497153/224940047-c5e20d5c-93bc-453a-af87-89ff829ec932.png">
